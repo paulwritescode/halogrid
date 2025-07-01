@@ -12,7 +12,7 @@ This project demonstrates a visually appealing animated gradient border effect u
 ## Usage
 
 1. Clone or download this repository.
-2. Open the `index.html` file in your browser.
+2. Open the `halo.html` file in your browser.
 3. Hover over the box to see the animated gradient effect.
 
 ## Browser Support
